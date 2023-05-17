@@ -53,10 +53,10 @@ packages:
     dependency: "direct main"
     description:
       name: figuras_flame
-      sha256: cf6272f652feb7fe291f93574525b9475510599667c21e62956abec585c60809
+      sha256: "57a96464022749b9e9b03ae30a01e0449564918ae45d5560c4c78806a5156767"
       url: "https://pub.dev"
     source: hosted
-    version: "0.0.5"
+    version: "0.0.6"
   flame:
     dependency: "direct main"
     description:
